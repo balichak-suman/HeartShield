@@ -96,6 +96,5 @@ This project is **open-source** and licensed under the **MIT License**. Feel fre
 ## Author
 
 👨‍💻 **Balichak Suman**\
-📧 **Contact:** [suman@example.com](mailto\:suman@example.com)\
-🔗 **GitHub:** [github.com/your-username](https://github.com/your-username)
+
 
